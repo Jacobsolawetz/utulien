@@ -1,1 +1,1 @@
-Tacklin FAQ one query at a time
+Tackling FAQ one query at a time
